@@ -1,10 +1,5 @@
 # 🏃 Long Jump Athlete Tracking — Image Processing Pipeline
 
-**COM2304 – Computer Graphics and Image Processing**  
-Rajarata University of Sri Lanka | Department of Computing  
-**Author:** M.N.M Aadhil (ASP/2023/061)
-
----
 
 ## 📌 Project Overview
 
@@ -227,8 +222,3 @@ Reg No: ASP/2023/061
 Department of Computing, Rajarata University of Sri Lanka  
 GitHub: [@aadhil-nisar](https://github.com/aadhil-nisar)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
